@@ -6,12 +6,14 @@ public class Functions
     {
         Console.WriteLine(TextLength("hello")); //should return 5; returns 5
         Console.WriteLine(SquareRoot(5)); //should return 25; returns 25
+        PrintHappyBirthday(true); //should return a string; returns the string
         Console.WriteLine(IsOdd(3)); //should return "ODD"; returns "ODD"
         Counter(8); //should return 8 - 0 inclusive; returns 8 - 0 inclusive
         Console.WriteLine(ReturnLonger("test", "thisislonger")); //should return "thisislonger"; returns "thisislonger"
         
         Console.WriteLine(TextLength("testnumidk")); //should return 10; returns 10
         Console.WriteLine(SquareRoot(14)); //should return 196; returns 196
+        PrintHappyBirthday(false); //shouldnt return anything; returns nothing
         Console.WriteLine(IsOdd(32)); //should return "EVEN"; returns "EVEN"
         Counter(3); //should return 3 - 0 inclusive; returns 3 - 0 inclusive
         Console.WriteLine(ReturnLonger("imnottoosureaboutthiscode", "thisislonger")); //should return "imnottoosureaboutthiscode"; returns "imnottoosureaboutthiscode"
@@ -27,6 +29,14 @@ public class Functions
     public int SquareRoot(int num)
     {
         return num * num;
+    }
+
+    public void PrintHappyBirthday(bool print)
+    {
+        if (print)
+        {
+            Console.WriteLine("Vše nejlepší!");
+        }
     }
 
     public string IsOdd(int num)
