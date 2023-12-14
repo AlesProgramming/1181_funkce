@@ -1,0 +1,15 @@
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\bin\Debug\net7.0\funkce.exe
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\bin\Debug\net7.0\funkce.deps.json
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\bin\Debug\net7.0\funkce.runtimeconfig.json
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\bin\Debug\net7.0\funkce.dll
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\bin\Debug\net7.0\funkce.pdb
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\obj\Debug\net7.0\funkce.csproj.AssemblyReference.cache
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\obj\Debug\net7.0\funkce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\obj\Debug\net7.0\funkce.AssemblyInfoInputs.cache
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\obj\Debug\net7.0\funkce.AssemblyInfo.cs
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\obj\Debug\net7.0\funkce.csproj.CoreCompileInputs.cache
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\obj\Debug\net7.0\funkce.dll
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\obj\Debug\net7.0\refint\funkce.dll
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\obj\Debug\net7.0\funkce.pdb
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\obj\Debug\net7.0\funkce.genruntimeconfig.cache
+C:\Users\alesr\Desktop\school\programming\funkcetest\funkce\obj\Debug\net7.0\ref\funkce.dll
